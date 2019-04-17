@@ -1,0 +1,1 @@
+penser à rename le configsample.php en config.php
